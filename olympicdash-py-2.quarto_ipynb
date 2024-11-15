@@ -15,7 +15,7 @@
         "logo-alt: \"Olympics logo with multicolored circles.\"\n",
         "---"
       ],
-      "id": "69f11675"
+      "id": "32ab24ee"
     },
     {
       "cell_type": "code",
@@ -69,7 +69,7 @@
         "\n",
         "### Row - Medals by sport {height=\"60%\"}\n"
       ],
-      "id": "af4906f8"
+      "id": "f0c3b5ac"
     },
     {
       "cell_type": "code",
@@ -121,7 +121,7 @@
       "source": [
         "### Row - Medals by year {height=\"40%\"}\n"
       ],
-      "id": "e873e8be"
+      "id": "179a83da"
     },
     {
       "cell_type": "code",
@@ -162,7 +162,7 @@
       "source": [
         "## Column - Medals by country\n"
       ],
-      "id": "6d1d08d3"
+      "id": "4fec9c11"
     },
     {
       "cell_type": "code",
@@ -201,9 +201,10 @@
   ],
   "metadata": {
     "kernelspec": {
-      "display_name": "Python 3",
+      "name": "python3",
       "language": "python",
-      "name": "python3"
+      "display_name": "Python 3 (ipykernel)",
+      "path": "/Users/brianyandell/Library/Python/3.9/share/jupyter/kernels/python3"
     }
   },
   "nbformat": 4,
