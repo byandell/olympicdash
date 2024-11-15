@@ -15,7 +15,7 @@
         "logo-alt: \"Olympics logo with multicolored circles.\"\n",
         "---"
       ],
-      "id": "32ab24ee"
+      "id": "6fa40c8e"
     },
     {
       "cell_type": "code",
@@ -69,7 +69,7 @@
         "\n",
         "### Row - Medals by sport {height=\"60%\"}\n"
       ],
-      "id": "f0c3b5ac"
+      "id": "81311e64"
     },
     {
       "cell_type": "code",
@@ -121,7 +121,7 @@
       "source": [
         "### Row - Medals by year {height=\"40%\"}\n"
       ],
-      "id": "179a83da"
+      "id": "689672ba"
     },
     {
       "cell_type": "code",
@@ -162,7 +162,7 @@
       "source": [
         "## Column - Medals by country\n"
       ],
-      "id": "4fec9c11"
+      "id": "fd5e4295"
     },
     {
       "cell_type": "code",
